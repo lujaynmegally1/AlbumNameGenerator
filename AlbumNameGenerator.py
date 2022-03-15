@@ -50,6 +50,12 @@ class album_name_generator:
         return s 
 
     def file_list(self, s):
+        '''
+        Takes in the text file of the chosen genre, which contains newline characters and no spaces,
+        and splits it so that the result is a list of the 50 words from that file
+        Args: s, a text file containing words specific to the user's chosen genre
+        Returns: s, the words in the original text file converted into a list of 50 strings
+        '''
         # replaces \n with a space in string s
         s = s.replace("\n", " ")
         # turns s into a list of words 
