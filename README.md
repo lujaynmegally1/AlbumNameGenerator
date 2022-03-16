@@ -4,6 +4,8 @@ Generates a random album name and corresponding album cover when you chose a gen
 #### Project Members: 
 Maham Khawar, Lujayn Megally, Lindsey Pagcaliuagan
 #### Installing Packages:
+
+conda create --name NEWENV --file requirements.txt
 #### Detailed Description:
 
 
