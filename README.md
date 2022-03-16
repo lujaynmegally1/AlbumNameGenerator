@@ -22,3 +22,5 @@ For formatting text on image: https://www.codegrepper.com/code-examples/python/p
 Changing font size on image: https://www.blog.pythonlibrary.org/2021/02/02/drawing-text-on-images-with-pillow-and-python/
 https://www.blog.pythonlibrary.org/2021/02/02/drawing-text-on-images-with-pillow-and-python/
 Generic Album Covers for all genres: https://www.postermywall.com/index.php/posterbuilder/copy/42158d32903e77fc9a1b8101f6331870
+
+Explanation Video: https://youtu.be/z2R0kCCv7eU
